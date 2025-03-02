@@ -51,7 +51,9 @@ To run the application locally, follow these steps:
 
 - Seed the database:
 `npm run seed`
-`5. Start the development server:`
+
+
+5. Start the development server:
 `npm run start:dev`
 
 - The frontend will be available at `http://localhost:5173` and the backend at `http://localhost:3001`.
